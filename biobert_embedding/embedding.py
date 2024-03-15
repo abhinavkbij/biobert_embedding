@@ -1,7 +1,6 @@
 import os
 import torch
 import logging
-import tensorflow as tf
 from pathlib import Path
 from biobert_embedding import downloader
 from pytorch_pretrained_bert import BertTokenizer, BertModel, BertForMaskedLM
