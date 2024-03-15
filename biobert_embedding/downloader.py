@@ -1,7 +1,6 @@
 import os
 import tarfile
 import requests
-import tensorflow as tf
 from pathlib import Path
 
 dropbox_id = "https://www.dropbox.com/s/hvsemunmv0htmdk/biobert_v1.1_pubmed_pytorch_model.tar.gz?dl=0"
